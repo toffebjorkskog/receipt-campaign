@@ -1,0 +1,19 @@
+{
+  "name": "receipt-campaign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toffebjorkskog/receipt-campaign.git"
+  },
+  "author": "Christoffer Björkskog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toffebjorkskog/receipt-campaign/issues"
+  },
+  "homepage": "https://github.com/toffebjorkskog/receipt-campaign#readme"
+}
