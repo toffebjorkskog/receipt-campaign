@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "receipt-campaign"
+  },
+  "targets": {
+    "receipt-campaign": {
+      "hosting": {
+        "admin": [
+          "receipt-campaign-admin"
+        ],
+        "campaign": [
+          "receipt-campaign"
+        ]
+      }
+    }
+  }
+}
